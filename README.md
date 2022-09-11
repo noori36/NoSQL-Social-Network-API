@@ -33,12 +33,10 @@ SO THAT my website can handle large amounts of unstructured data
   ## Usage
   To handle the unstructred data. API allows to create, update and delete the data in available schema.
 
-
-
   
  - <a href="https://drive.google.com/file/d/1Sguko6Wj1kjESl7KBMpft0t_LqUpeZcI/view?usp=sharing"> Walkthrough Video of Social-Network-API</a>
 
-- [The URL of the GitHub repository.](https://github.com/noori36/Book-Search-Engine)
+- [The URL of the GitHub repository.](https://github.com/noori36/NoSQL-Social-Network-API)
  
 
   ## Contributing:
